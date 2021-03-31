@@ -7,4 +7,4 @@ The dataset contains country-wise happiness scores, rankings and extent to which
 4. Freedom
 5. Trust (Government Corruption)
 6. Generosity
-other factors are put into the 'Dystopia Residual'. The addition of above 7 qualities makes the happiness score of region-wise coutries given. The rank is predicted on the basis of the happiness score.
+<br>other factors are put into the 'Dystopia Residual'. The addition of above 7 qualities makes the happiness score of region-wise coutries given. The rank is predicted on the basis of the happiness score.
